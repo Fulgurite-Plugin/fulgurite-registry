@@ -1,9 +1,9 @@
 [
-  "https://github.com/Fulgurite-Plugin/fulgurite-vim",
-  "https://github.com/Fulgurite-Plugin/fulgurite-emoji",
-  "https://github.com/Fulgurite-Plugin/fulgurite-math",
-  "https://github.com/Fulgurite-Plugin/fulgurite-templates",
-  "https://github.com/Fulgurite-Plugin/fulgurite-tables",
-  "https://github.com/Fulgurite-Plugin/fulgurite-excalidraw",
-  "https://github.com/Fulgurite-Plugin/fulgurite-note-status"
+  "https://github.com/fulgurite-plugin/fulgurite-vim",
+  "https://github.com/fulgurite-plugin/fulgurite-emoji",
+  "https://github.com/fulgurite-plugin/fulgurite-math",
+  "https://github.com/fulgurite-plugin/fulgurite-templates",
+  "https://github.com/fulgurite-plugin/fulgurite-tables",
+  "https://github.com/fulgurite-plugin/fulgurite-excalidraw",
+  "https://github.com/fulgurite-plugin/fulgurite-note-status"
 ]
